@@ -1,0 +1,29 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranjul2121/Node-Server-learn.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Mongoose"
+  ],
+  "author": "Pranjul Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pranjul2121/Node-Server-learn/issues"
+  },
+  "homepage": "https://github.com/Pranjul2121/Node-Server-learn#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  }
+}
